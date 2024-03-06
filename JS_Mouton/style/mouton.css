@@ -1,0 +1,27 @@
+h1 {
+    font-size: 90px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+#plateauDeJeu {
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    height: 100px;
+    margin-top: 300px;
+    margin-left: 550px;
+   
+}
+.image {
+    width: 100px;
+    height: 100px;
+    
+}
+
+#background {
+    background-image: url("../img/prairie1.jpg") ;
+    background-repeat: no-repeat;
+    background-color: rgb(94, 138, 94);
+    
+    
+}
